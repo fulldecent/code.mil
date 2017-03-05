@@ -578,7 +578,7 @@ issues surrounding the release of software, please see this file at
 
 # Glossary
 
-A glossary of terms can be found [here](GLOSSARY.html).
+A glossary of terms can be found [here](/GLOSSARY.md).
 
 # Footnotes
 
